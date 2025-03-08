@@ -5,7 +5,7 @@ Microsoft AZ-104: Azure Administrator Associate Study Notes
 Do not rely on these notes to pass the exam. It's advised to use Microsoft's study guide for the exam: https://learn.microsoft.com/en-us/certifications/resources/study-guides/az-104
 
 Microsoft has listed several study resources on their study guide:
-(https://learn.microsoft.com/en-us/credentials/certifications/azure-administrator/?practice-assessment-type=certification#two-ways-to-prepare).
+[Azure administration](https://learn.microsoft.com/en-us/credentials/certifications/azure-administrator/?practice-assessment-type=certification#two-ways-to-prepare).
 
 Additional Microsoft resources:
 - [Manage Azure Identities & Governance Video](https://learn.microsoft.com/en-us/shows/exam-readiness-zone/preparing-for-az-104-manage-azure-identities-and-governance-1-of-5)
