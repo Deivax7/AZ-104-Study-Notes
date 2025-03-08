@@ -4,7 +4,8 @@ Microsoft AZ-104: Azure Administrator Associate Study Notes
 # Disclaimer
 Do not rely on these notes to pass the exam. It's advised to use Microsoft's study guide for the exam: https://learn.microsoft.com/en-us/certifications/resources/study-guides/az-104
 
-Microsoft has listed several study resources on their study guide.
+Microsoft has listed several study resources on their study guide:
+(https://learn.microsoft.com/en-us/credentials/certifications/azure-administrator/?practice-assessment-type=certification#two-ways-to-prepare).
 
 Additional Microsoft resources:
 - [Manage Azure Identities & Governance Video](https://learn.microsoft.com/en-us/shows/exam-readiness-zone/preparing-for-az-104-manage-azure-identities-and-governance-1-of-5)
@@ -15,7 +16,7 @@ Additional Microsoft resources:
 - [Configure & Manage Virtual Networking Video](https://learn.microsoft.com/en-us/shows/exam-readiness-zone/preparing-for-az-104-configure-and-manage-virtual-networking-4-of-5)
 - [Monitor & Backup Azure Resources Video](https://learn.microsoft.com/en-us/shows/exam-readiness-zone/preparing-for-az-104-monitor-and-maintain-azure-resources-5-of-5)
 
-## Skills measured as of July 28, 2023
+## Skills measured as of 2023-10-26
 
 ### Audience profile
 
@@ -35,7 +36,7 @@ Candidates for this exam should be familiar with operating systems, networking, 
 
 - Create users and groups
 - Manage user and group properties
-- Manage licenses in Azure AD
+- Manage licenses in Entra ID
 - Manage external users
 - Configure self-service password reset (SSPR)
 
